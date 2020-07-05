@@ -4,7 +4,7 @@ A Repository containing easy customisable auth screens in flutter. It has auth s
 
 # Discord 
 
-Visit [here](https://flutter.dev/docs/get-started/codelab) For Customization Options.
+Visit [here](https://github.com/desi-programmer/flutterUI/tree/master/lib/discordb) For Customization Options.
 
 - Contains Welcome Screen
 - Login Screen
