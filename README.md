@@ -1,11 +1,11 @@
-# Flutter Auth UI Screens 
+# Flutter Source Codes
 
-A Repository containing easy customisable auth screens in flutter. It has auth screens of Discord, Netflix and Some Custom Ones Like A Tabbed Login Screen 
+    - Some Flutter apps that I code for tutorials or learning
 
-# Discord 
+## `Local Notes App`
 
-Visit [here](https://github.com/desi-programmer/flutterUI/tree/master/lib/discord) For Customization Options.
+ A Notes app made using local database `hive`.
 
-- Contains Welcome Screen
-- Login Screen
-- Signup Screen
+## `Login UI`
+
+ A Login UI app that currently has discord login UI.
