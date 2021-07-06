@@ -14,4 +14,6 @@ Visit [here](https://github.com/desi-programmer/flutter/tree/master/lib/discord)
 
 ## `Screenhots`
 
-![Login Ui](discord_login_ui/screenshots/discordlogin2.png)
+![Login Ui](../discord_login_ui/screenshots/discordlogin1.png)
+![Login Ui](../discord_login_ui/screenshots/discordlogin2.png)
+![Login Ui](../discord_login_ui/screenshots/discordlogin3.png)

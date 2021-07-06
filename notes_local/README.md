@@ -6,3 +6,8 @@ Flutter Notes App using Local Hive Database
 ## `WEB Support not checked`
 
 ## `Note` : Fonts may be subjected to copyright !
+
+## `Screenshots`
+
+![Local Notes](../notes_local/screenshots/noteslocal.png)
+![Local Notes](../notes_local/screenshots/noteslocal2.png)
