@@ -14,6 +14,6 @@ Visit [here](https://github.com/desi-programmer/flutter/tree/master/lib/discord)
 
 ## `Screenhots`
 
-![Login Ui](../discord_login_ui/screenshots/discordlogin1.png)
-![Login Ui](../discord_login_ui/screenshots/discordlogin2.png)
-![Login Ui](../discord_login_ui/screenshots/discordlogin3.png)
+<img src="../discord_login_ui/screenshots/discordlogin1.png" width="500" alt="Image 1"/>
+<img src="../discord_login_ui/screenshots/discordlogin2.png" width="500" alt="Image 2"/>
+<img src="../discord_login_ui/screenshots/discordlogin3.png" width="500" alt="Image 3"/>

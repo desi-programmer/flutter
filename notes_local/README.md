@@ -9,5 +9,6 @@ Flutter Notes App using Local Hive Database
 
 ## `Screenshots`
 
-![Local Notes](../notes_local/screenshots/noteslocal.png)
-![Local Notes](../notes_local/screenshots/noteslocal2.png)
+<img src="../notes_local/screenshots/noteslocal.png" width="500" alt="Image 1"/>
+
+<img src="../notes_local/screenshots/noteslocal.png" width="500" alt="Image 2"/>
