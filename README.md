@@ -13,3 +13,9 @@
  A Login UI app that currently has discord login UI.
 
 <img src="discord_login_ui/screenshots/discordlogin2.png" width="300" alt="Image 2"/>
+
+## `Local Sqflite Notes App`
+
+Using `sqflite` to create a simple notes app. The database helper class can be used to manage your own data.
+
+<img src="screenshots\screenshot2.png" widht="300" alt="Image 1" />
