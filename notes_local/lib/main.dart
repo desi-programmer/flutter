@@ -105,7 +105,6 @@ class _HomePageState extends State<HomePage> {
             return ListView.builder(
               itemCount: snapshot.data.length,
               itemBuilder: (context, index) {
-                // Map data = snapshot.data[index];
                 Map data = box.getAt(index);
                 print(data);
                 return InkWell(
