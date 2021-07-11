@@ -11,6 +11,7 @@ if(!$conn){
 }
 
 // DB FORMAT 
+//     TABLE NAME : notes
 //     - id ( tinyint PRIMARY KEY AUTO_INCREMENT)
 //     - note ( text NOT NULL)
 //     - datetime ( datetime DEFAULT CURRENT_TIMESTAMP)

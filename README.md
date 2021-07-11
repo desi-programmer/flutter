@@ -19,3 +19,9 @@
 Using `sqflite` to create a simple notes app. The database helper class can be used to manage your own data.
 
 <img src="sqflite_notepad/screenshots/screenshot2.png" width="500" alt="Image 1" />
+
+## `Flutter PHP Notes App`
+
+Using `flutter` and `PHP` to create a notes app.
+
+<img src="flutter_php_notes_app/screenshots/Screenshot_1625938608_framed.png" width="500" alt="Image 1" />
