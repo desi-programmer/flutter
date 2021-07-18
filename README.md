@@ -25,3 +25,9 @@ Using `sqflite` to create a simple notes app. The database helper class can be u
 Using `flutter` and `PHP` to create a notes app.
 
 <img src="flutter_php_notes_app/screenshots/Screenshot_1625938608_framed.png" width="300" alt="Image 1" />
+
+## `Flutter Node js API and Client Side Data Filtering`
+
+Using `flutter` and `NODE` to create a peoples app. ave talked about `solving future builder automatically refiring issue` and `Client side data filtration`.
+
+<img src="node_flutter_api_tutorial/flutter_client/screenshots/filtered.png" width="300" alt="Image 1" />
