@@ -28,7 +28,7 @@ class _InfiniteScrollPackageState extends State<InfiniteScrollPackage> {
     print("Getting More Data");
     var response = await http.get(
       Uri.parse(
-        "http://10.0.2.2:800/api?page=$page",
+        "http://10.0.2.2:8000/api?page=$page",
       ),
     );
     if (response.statusCode == 200) {
@@ -48,6 +48,8 @@ class _InfiniteScrollPackageState extends State<InfiniteScrollPackage> {
     try {
       final newItems = await getDataFromApi();
       print(newItems);
+      // to append data, as more data is still available and can be loaded
+      // _pagingController.appendPage(newItems, page++);
       _pagingController.appendLastPage(newItems);
     } catch (e) {
       _pagingController.error = e;
